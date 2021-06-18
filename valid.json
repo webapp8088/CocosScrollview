@@ -1,5 +1,27 @@
 {
     "urls":[
-        "http://cocosre.laosanchen.com/"
+        "https://static.polayouliao.com/",
+        "https://static.wxsudabj.com/",
+        "https://static.fshdlmall.com/",
+        "https://static.tjwfygg.com/",
+        "https://static.sz-litw.com/"
+    ],
+    "apis":[
+        "https://qpapi.baomaya.com/",
+        "https://qpapi.shangyu188.com/",
+        "https://qpapi.aokaikouqiang.com/",
+        "https://qpapi.lz4746.com/",
+        "https://qpapi.jyzxamj.com/",
+        "https://qpapi.nizifen88.com/",
+        "https://qpapi.heqiweilai.com/",
+        "https://qpapi.zibogaokao.com/",
+        "https://qpapi.xipengxiyan.com/"
+    ],
+    "staticRes":[
+        "http://static.polayouliao.com/",
+        "http://static.wxsudabj.com/",
+        "http://static.fshdlmall.com/",
+        "http://static.tjwfygg.com/",
+        "http://static.sz-litw.com/",
     ]
 }
