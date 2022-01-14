@@ -3,7 +3,7 @@
         "https://static.polayouliao.com/",
         "https://static.yxswzny.com/",
         "https://static.fshdlmall.com/",
-        "https://static.sz-litw.com/",
+        "https://static.sz-litw.com/"
     ],
     "apis":[
         "https://qpapi.zibogaokao.com/",
@@ -15,6 +15,6 @@
         "http://static.polayouliao.com/",
         "http://static.yxswzny.com/",
         "http://static.fshdlmall.com/",
-        "http://static.sz-litw.com/",
+        "http://static.sz-litw.com/"
     ]
 }
