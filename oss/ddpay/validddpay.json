@@ -1,12 +1,17 @@
 {
     "apiUrl" : [
-        "https://huoguoxjt1.com/api"
+        "https://huoguoxjt.com/api",
+        "https://szjhczx.com/api",
+        "https://czlytgc.com/api",
+        "https://gzrrgx.com/api",
+        "https://hzlfserve.com/api"
     ],
     "resApi" : [
         "https://oss.dahengmetal.com",
+        "https://oss.szkden.com",
         "https://oss.walkchat08.com",
-        "https://oss.walkchat10.com",
-        "https://oss.walkchat05.com"
+        "https://oss.walkchat05.com",
+        "https://oss.walkchat10.com"
     ],
     "currentVersion" : {
         "ios" : "1.2.2.1",
