@@ -1,0 +1,14 @@
+{
+    "apiUrl" : [
+        "https://qpapi.zibogaokao.com/",
+        "https://qpapi.xipengxiyan.com/",
+        "https://qpapi.the-blue-tech.com/",
+        "https://qpapi.yapxbxg.com/"
+    ],
+    "resApi" : [
+        "http://static.fshdlmall.com/",
+        "http://static.sz-litw.com/",
+        "http://static.busyj.com/",
+        "http://static.sdlxqzsb.com/"
+    ]
+}
