@@ -1,14 +1,14 @@
 {
     "apiUrl" : [
-        "https://qpapi.zibogaokao.com/",
-        "https://qpapi.xipengxiyan.com/",
-        "https://qpapi.the-blue-tech.com/",
-        "https://qpapi.yapxbxg.com/"
+        "https://h5api.angeasycloud.com/",
+        "https://h5api.huilian-js.com/",
+        "https://h5api.xllvlv.com/",
+        "https://h5api.slb8808.com/"
     ],
     "resApi" : [
-        "http://static.fshdlmall.com/",
-        "http://static.sz-litw.com/",
-        "http://static.busyj.com/",
-        "http://static.sdlxqzsb.com/"
+        "http://h5static.wnganxibao.com/",
+        "http://h5static.zhangnan5201314.com/",
+        "http://h5static.qinyouspring.com/",
+        "http://h5static.ymcmeiya.com/"
     ]
 }

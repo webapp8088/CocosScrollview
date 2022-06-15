@@ -1,20 +1,20 @@
 {
     "urls":[
-        "https://static.polayouliao.com/",
-        "https://static.busyj.com/",
-        "https://static.fshdlmall.com/",
-        "https://static.sz-litw.com/"
+        "http://static.fshdlmall.com/",
+        "http://static.penghyong.com/",
+        "http://static.shengshimen.com/",
+        "http://static.sdlxqzsb.com/"
     ],
     "apis":[
-        "https://qpapi.zibogaokao.com/",
+        "https://qpapi.yingrenmai.com/",
         "https://qpapi.xipengxiyan.com/",
         "https://qpapi.the-blue-tech.com/",
         "https://qpapi.yapxbxg.com/"
     ],
     "staticRes":[
-        "http://static.polayouliao.com/",
-        "http://static.busyj.com/",
         "http://static.fshdlmall.com/",
-        "http://static.sz-litw.com/"
+        "http://static.penghyong.com/",
+        "http://static.shengshimen.com/",
+        "http://static.sdlxqzsb.com/"
     ]
 }
