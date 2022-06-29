@@ -1,28 +1,16 @@
 {
     "apiUrl" : [
-        "https://huoguoxjt.com/api",
-        "https://szjhczx.com/api",
-        "https://czlytgc.com/api",
-        "https://gzrrgx.com/api",
+        "https://sxhlsz.com/api",
         "https://hzlfserve.com/api",
         "https://ddpayflo.com/api",
         "https://ddpayhqb.com/api",
         "https://ddpayxzs.com/api"
     ],
     "resApi" : [
-        "https://oss.dahengmetal.com",
         "https://oss.szkden.com",
         "https://oss.walkchat08.com",
         "https://oss.walkchat05.com",
         "https://oss.walkchat10.com"
-    ],
-    "currentVersion" : {
-        "ios" : "1.3.0",
-        "android" : "1.3.0"
-    },
-    "lowestVersion" : {
-        "ios" : "1.0.0",
-        "android" : "1.0.0"
-    },
-    "downloadUrl" : "https://ddpay5.com"
+    ]
+    
 }
