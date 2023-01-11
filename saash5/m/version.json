@@ -1,12 +1,13 @@
 {
     "apiUrl" : [
-       "https://h5api.siqflh.com/",
+        "https://h5api.bzbon.com/",
+        "https://h5api.siqflh.com/",
         "https://h5api.soproe.com/",
         "https://h5api.yj8821.com/",
-        "https://h5api.yunlyun.com/",
         "https://h5api.yj8820.com/"
     ],
     "resApi" : [
+        "https://h5static.tuyuok.com/",
         "http://h5static.wnganxibao.com/",
         "http://h5static.zhangnan5201314.com/",
         "http://h5static.qinyouspring.com/",
