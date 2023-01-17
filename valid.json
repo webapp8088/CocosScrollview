@@ -1,8 +1,9 @@
 {
     "urls":[
-        "https://static.fshdlmall.com/",
-        "https://static.sdlxqzsb.com/",
-        "https://static.siimn.com/"
+       "http://static.fshdlmall.com/",
+        "http://static.sdlxqzsb.com/",
+        "http:/static.siimbb.com/",
+        "http://static.shengshimen.com"
     ],
     "apis":[
         "https://qpapi.hzmltj.com",
