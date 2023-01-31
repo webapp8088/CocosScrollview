@@ -1,8 +1,10 @@
 {
     "apiUrl" : [
+        "https://h5api.fsdsing.com/",
         "https://h5api.siqflh.com/",
         "https://h5api.soproe.com/",
         "https://h5api.yj8821.com/",
+        "https://h5apics.fsdsing.com/",
         "https://h5api.yj8820.com/"
     ],
     "resApi" : [
