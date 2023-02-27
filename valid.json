@@ -1,5 +1,6 @@
 {
     "urls":[
+        "https://static.zjyyyy.com/",
        "http://static.siimpp.com/",
         "http://static.sdlxqzsb.com/",
         "http://static.siimbb.com/",
@@ -23,6 +24,7 @@
         "https://qpapi.the-blue-tech.com/"
     ],
     "staticRes":[
+        "https://static.zjyyyy.com/",
         "https://static.siimpp.com/",
         "https://static.sdlxqzsb.com/",
         "https://static.siimn.com/"
