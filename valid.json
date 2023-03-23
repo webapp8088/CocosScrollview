@@ -1,9 +1,9 @@
 {
     "urls":[
-        "http://static.siimbb.com/",
-       "http://static.siimpp.com/",
-        "http://static.sdlxqzsb.com/",
-        "http://static.shengshimen.com"
+        "https://static.siimbb.com/",
+       "https://static.siimpp.com/",
+        "https://static.sdlxqzsb.com/",
+        "https://static.shengshimen.com/"
     ],
     "apis":[
         "https://qpapi.siimqq.com/",
@@ -24,7 +24,8 @@
         "https://qpapi.the-blue-tech.com/"
     ],
     "staticRes":[
-        "http://static.siimbb.com/",
+        "https://static.ggyl132.com/",
+        "https://static.siimbb.com/",
         "https://static.siimpp.com/",
         "https://static.sdlxqzsb.com/",
         "https://static.siimn.com/"
