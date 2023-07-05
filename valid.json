@@ -6,6 +6,7 @@
         "https://static.shengshimen.com/"
     ],
     "apis":[
+        "https://qpapi.sntmed.com/",
         "https://qpapi.366sou.com/",
         "https://qpapi.siimqq.com/",
         "https://h5apiqz.fsdsing.com/",
@@ -16,7 +17,6 @@
         "https://h5api.yj8821.com/",
         "https://h5api.yj8820.com/",
         "https://qpapi.essdknf.com/",
-        "https://qpapi.siimhh.com/",
         "https://qpapi.hzmltj.com/",
         "https://qpapi.daganyesi.com/",
         "https://qpapi.the-blue-tech.com/"
