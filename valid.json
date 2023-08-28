@@ -1,11 +1,13 @@
 {
     "urls":[
+        "https://static.sqgwgk.com/",
         "https://static.siimbb.com/",
-       "https://static.siimpp.com/",
+        "https://static.siimpp.com/",
         "https://static.sdlxqzsb.com/",
         "https://static.shengshimen.com/"
     ],
     "apis":[
+        "https://qpapi.siimxx.com/",
         "https://qpapi.sntmed.com/",
         "https://qpapi.366sou.com/",
         "https://qpapi.siimqq.com/",
@@ -22,8 +24,9 @@
         "https://qpapi.the-blue-tech.com/"
     ],
     "staticRes":[
+        "https://static.sqgwgk.com/",
+        "https://static.smhwks.com/",
         "https://static.objektif46.com/",
-        "https://static.ggyl132.com/",
         "https://static.siimbb.com/",
         "https://static.objektif46.com/",
         "https://static.siimpp.com/",
