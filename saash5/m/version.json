@@ -1,22 +1,39 @@
 {
-    "apiUrl" : [
-        "https://qpapi.a2z-fashion.com/",
-        "https://qpapi.hzmltj.com/",
-        "https://qpapi.daganyesi.com/",
-        "https://h5apiqz.fsdsing.com/",
-        "https://h5apiqz2.fsdsing.com/",
-        "https://h5apics.fsdsing.com/",
-        "https://h5api.siqflh.com/",
-        "https://h5api.soproe.com/",
-        "https://h5api.yj8821.com/",
-        "https://h5api.yj8820.com/",
-        "https://h5api.shjgop.com/"
-    ],
-    "resApi" : [
-        "https://h5static.tuyuok.com/",
-        "http://h5static.wnganxibao.com/",
-        "http://h5static.zhangnan5201314.com/",
-        "http://h5static.qinyouspring.com/",
-        "http://h5static.ymcmeiya.com/"
-    ]
+  "apiUrl": [
+    "https://h5api.366sou.com/",
+    "https://h5api.ggyl133.com/",
+    "https://h5api.akcddq.com/",
+    "https://h5apiqz.fsdsing.com/",
+    "https://h5apiqz2.fsdsing.com/",
+    "https://h5apics.fsdsing.com/",
+    "https://h5api.siqflh.com/",
+    "https://qpapi.quiet-wind.com",
+    "https://qpapi.sglhcj.com",
+    "https://qpapi.sgodlk.com",
+    "https://qpapi.sgszax.com",
+    "https://qpapi.sguixw.com",
+    "https://qpapi.sblttp.com",
+    "https://qpapi.showwv.com",
+    "https://qpapi.shsmvk.com",
+    "https://qpapi.silzyf.com",
+    "https://qpapi.skowyb.com",
+    "https://qpapi.ggyl137.com"
+  ],
+  "resApi": [
+    "https://h5static.weiqiyl.com",
+    "https://h5static.tuyuok.com",
+    "https://h5static.siimuu.com",
+    "https://h5static.sqkbik.com",
+    "https://h5static.spemzl.com",
+    "https://h5static.sfoyxw.com",
+    "https://static.philofitness.com/",
+    "https://static.syaqiz.com/",
+    "https://static.sbodve.com/",
+    "https://static.stavtj.com/",
+    "https://static.objektif46.com/",
+    "https://static.zjyyyy.com/",
+    "https://static.siimpp.com/",
+    "https://static.smhwks.com/",
+    "https://static.shengshimen.com/"
+  ]
 }
