@@ -1,12 +1,14 @@
 {
     "urls":[
+        "https://static.philofitness.com/",
         "https://static.skyprr.com/",
         "https://static.sliegx.com/",
         "https://static.smbgxb.com/",
         "https://static.smfngq.com/",
-        "https://static.sqgwgk.com/",
         "https://static.syaqiz.com/",
-        "https://static.sdlxqzsb.com/",
+        "https://static.objektif46.com/",
+        "https://static.zjyyyy.com/",
+        "https://static.smhwks.com/"
     ],
     "apis":[
         "https://qpapi.showwv.com/",
@@ -32,16 +34,14 @@
         "https://qpapi.sblttp.com/"
     ],
     "staticRes":[
+        "https://static.philofitness.com/",
         "https://static.skyprr.com/",
         "https://static.sliegx.com/",
         "https://static.smbgxb.com/",
         "https://static.smfngq.com/",
-        "https://static.sqgwgk.com/",
-        "https://static.smhwks.com/",
+        "https://static.syaqiz.com/",
         "https://static.objektif46.com/",
-        "https://static.siimbb.com/",
-        "https://static.objektif46.com/",
-        "https://static.siimpp.com/",
-        "https://static.sdlxqzsb.com/"
+        "https://static.zjyyyy.com/",
+        "https://static.smhwks.com/"
     ]
 }
