@@ -1,9 +1,7 @@
 {
-  "apis": [
+   "apis": [
     "https://qpapi.rrgfw.com/",
     "https://qpapi1.rrgfw.com/",
-    "https://qpapi4.huanghzh.com/",
-    "https://qpapi2.huanghzh.com/",
     "https://qpapi.95486731.com/",
     "https://qpapi.41885447.com/",
     "https://qpapi.24790715.com/",
@@ -11,31 +9,31 @@
     "https://qpapi.34626851.com/"
   ],
   "staticRes": [
-    "https://static.hndkjh.com/",
-    "https://static4.hndkjh.com/",
+    "https://static.trifim.com/",
+    "https://static3.trifim.com/",
     "https://static2.philofitness.com/",
     "https://static.dd3335m.com/",
     "https://static.dd3335n.com/",
     "https://static.smerms.com/",
-    "https://static.sxqnte.com/",
-    "https://static.syaqiz.com/",
+    "https://static.szqclz.com/",
     "https://static.sywjsm.com/",
     "https://static.zjyyyy.com/",
     "https://static.smhwks.com/",
-    "https://static.dd3335l.com/"
+    "https://static.dd3335l.com/",
+    "https://static.snbcjx.com/"
   ],
   "urls": [
-    "https://static.hndkjh.com/",
-    "https://static4.hndkjh.com/",
+    "https://static.trifim.com/",
+    "https://static3.trifim.com/",
     "https://static2.philofitness.com/",
     "https://static.dd3335m.com/",
     "https://static.dd3335n.com/",
     "https://static.smerms.com/",
-    "https://static.sxqnte.com/",
-    "https://static.syaqiz.com/",
+    "https://static.szqclz.com/",
     "https://static.sywjsm.com/",
     "https://static.zjyyyy.com/",
     "https://static.smhwks.com/",
-    "https://static.dd3335l.com/"
+    "https://static.dd3335l.com/",
+    "https://static.snbcjx.com/"
   ]
 }
