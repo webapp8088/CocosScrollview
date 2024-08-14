@@ -1,12 +1,12 @@
 {
-   "apis": [
+  "apis": [
     "https://qpapi3.huanghzh.com/",
     "https://qpapi2.rrgfw.com/",
-    "https://qpapi.95486731.com/",
-    "https://qpapi.41885447.com/",
-    "https://qpapi.24790715.com/",
-    "https://qpapi.99721478.com/",
-    "https://qpapi.34626851.com/"
+    "https://qpapi.85443416.com/",
+    "https://qpapi.swfsbz.com/",
+    "https://qpapi.swnlda.com/",
+    "https://qpapi.srmirt.com/",
+    "https://qpapi.srvsdx.com/"
   ],
   "staticRes": [
     "https://static.trifim.com/",
