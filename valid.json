@@ -1,5 +1,5 @@
 {
-  "apis": [
+   "apis": [
     "https://qpapi3.huanghzh.com/",
     "https://qpapi2.rrgfw.com/",
     "https://qpapi.85443416.com/",
@@ -10,31 +10,23 @@
     "https://qpapi9.huanghzh.com/"
   ],
   "staticRes": [
-    "https://static.trifim.com/",
-    "https://static3.trifim.com/",
-    "https://static2.philofitness.com/",
-    "https://static.dd3335m.com/",
-    "https://static.dd3335n.com/",
-    "https://static.smerms.com/",
-    "https://static.szqclz.com/",
-    "https://static.sywjsm.com/",
-    "https://static.zjyyyy.com/",
-    "https://static.smhwks.com/",
-    "https://static.dd3335l.com/",
-    "https://static.snbcjx.com/"
+    "https://static1.trifim.com/",
+    "https://static4.trifim.com/",
+    "https://static.srjhpz.com/",
+    "https://static.sieipc.com/",
+    "https://static.shmhti.com/",
+    "https://static.smfwdr.com/",
+    "https://static.suoqgp.com/",
+    "https://static.swlpqb.com/"
   ],
   "urls": [
-    "https://static.trifim.com/",
-    "https://static3.trifim.com/",
-    "https://static2.philofitness.com/",
-    "https://static.dd3335m.com/",
-    "https://static.dd3335n.com/",
-    "https://static.smerms.com/",
-    "https://static.szqclz.com/",
-    "https://static.sywjsm.com/",
-    "https://static.zjyyyy.com/",
-    "https://static.smhwks.com/",
-    "https://static.dd3335l.com/",
-    "https://static.snbcjx.com/"
+    "https://static1.trifim.com/",
+    "https://static4.trifim.com/",
+    "https://static.srjhpz.com/",
+    "https://static.sieipc.com/",
+    "https://static.shmhti.com/",
+    "https://static.smfwdr.com/",
+    "https://static.suoqgp.com/",
+    "https://static.swlpqb.com/"
   ]
 }
