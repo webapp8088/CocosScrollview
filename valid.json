@@ -1,5 +1,7 @@
 {
   "apis": [
+    "https://154.23.224.136:56000/",
+    "https://154.23.224.137:56000/",
     "https://qpapi.xiangyinkt.com/",
     "https://qpapi3.xiangyinkt.com/",
     "https://qpapi.spxsby.com/",
@@ -8,6 +10,8 @@
     "https://qpapi.srnqua.com/"
   ],
   "staticRes": [
+    "https://154.23.224.146:57000/",
+    "https://154.23.224.147:57000/",
     "https://static.huanghunnf.com/",
     "https://static3.huanghunnf.com/",
     "https://static.sjtgvi.com/",
@@ -18,6 +22,8 @@
     "https://static.szlusi.com/"
   ],
   "urls": [
+    "https://154.23.224.146:57000/",
+    "https://154.23.224.147:57000/",
     "https://static.huanghunnf.com/",
     "https://static3.huanghunnf.com/",
     "https://static.sjtgvi.com/",
