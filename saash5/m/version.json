@@ -1,15 +1,14 @@
 {
   "apiUrl": [
-    "https://h5api.ljtmk.com/",
-    "https://h5api3.ljtmk.com/",
-    "https://h5api1.366sou.com/",
-    "https://h5api.sjwiup.com/",
-    "https://h5api.sfivrb.com/",
-    "https://h5api.syzwdt.com/",
-    "https://h5api.skskwx.com/"
+    "https://h5api2.ljtmk.com/",
+    "https://h5api4.ljtmk.com/",
+    "https://h5api.65127447.com/",
+    "https://h5api.89822821.com/",
+    "https://h5api.39869199.com/",
+    "https://h5api.39407213.com/"
   ],
   "resApi": [
-    "https://h5static.ahduanyun.com/",
+    "https://h5static1.ahduanyun.com/",
     "https://h5static3.ahduanyun.com/",
     "https://h5static.sptjzt.com/",
     "https://h5static.smyuez.com/",
