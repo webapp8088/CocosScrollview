@@ -1,30 +1,30 @@
 {
   "apiUrl": [
-    "https://h5api1.udcxg.com/",
+    "https://h5api2.udcxg.com/",
     "https://h5api8.udcxg.com/",
     "https://h5api.ssbajn.com/",
     "https://h5api.switjm.com/",
     "https://h5api.skvefu.com/",
     "https://h5api.sovjhs.com/",
-    "https://h5static4.hzzhzm.com/",
+    "https://h5static3.hzzhzm.com/",
     "https://h5static11.hzzhzm.com/",
-    "https://h5static2.hzzhzm.com/",
+    "https://h5static5.hzzhzm.com/",
     "https://h5static13.hzzhzm.com/",
     "https://h5static.shxhev.com/",
     "https://h5static.szgixe.com/"
   ],
   "resApi": [
-    "https://h5static4.hzzhzm.com/",
-    "https://h5static11.hzzhzm.com/",
-    "https://h5static2.hzzhzm.com/",
-    "https://h5static13.hzzhzm.com/",
-    "https://h5static.shxhev.com/",
-    "https://h5static.szgixe.com/",
-    "https://h5api1.udcxg.com/",
+    "https://h5api2.udcxg.com/",
     "https://h5api8.udcxg.com/",
     "https://h5api.ssbajn.com/",
     "https://h5api.switjm.com/",
     "https://h5api.skvefu.com/",
-    "https://h5api.sovjhs.com/"
+    "https://h5api.sovjhs.com/",
+    "https://h5static3.hzzhzm.com/",
+    "https://h5static11.hzzhzm.com/",
+    "https://h5static5.hzzhzm.com/",
+    "https://h5static13.hzzhzm.com/",
+    "https://h5static.shxhev.com/",
+    "https://h5static.szgixe.com/"
   ]
 }
