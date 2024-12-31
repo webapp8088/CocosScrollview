@@ -1,13 +1,9 @@
 {
   "apis": [
-    "https://154.23.224.138:57000/",
-    "https://154.23.224.139:57000/",
     "https://qpapi9.xiangyinkt.com/",
     "https://qpapi15.xiangyinkt.com/",
     "https://qpapi.srxuto.com/",
     "https://qpapi.shktbo.com/",
-    "https://154.23.224.148:57000/",
-    "https://154.23.224.149:57000/",
     "https://static7.huanghunnf.com/",
     "https://static11.huanghunnf.com/",
     "https://static.sbucdo.com/",
@@ -15,14 +11,10 @@
     "https://static.szlusi.com/"
   ],
   "staticRes": [
-    "https://154.23.224.138:57000/",
-    "https://154.23.224.139:57000/",
     "https://qpapi9.xiangyinkt.com/",
     "https://qpapi15.xiangyinkt.com/",
     "https://qpapi.srxuto.com/",
     "https://qpapi.shktbo.com/",
-    "https://154.23.224.148:57000/",
-    "https://154.23.224.149:57000/",
     "https://static7.huanghunnf.com/",
     "https://static11.huanghunnf.com/",
     "https://static.sbucdo.com/",
@@ -30,14 +22,10 @@
     "https://static.szlusi.com/"
   ],
   "urls": [
-    "https://154.23.224.138:57000/",
-    "https://154.23.224.139:57000/",
     "https://qpapi9.xiangyinkt.com/",
     "https://qpapi15.xiangyinkt.com/",
     "https://qpapi.srxuto.com/",
     "https://qpapi.shktbo.com/",
-    "https://154.23.224.148:57000/",
-    "https://154.23.224.149:57000/",
     "https://static7.huanghunnf.com/",
     "https://static11.huanghunnf.com/",
     "https://static.sbucdo.com/",
