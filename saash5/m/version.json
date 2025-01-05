@@ -1,5 +1,9 @@
 {
   "apiUrl": [
+    "https://154.23.224.142:46000/",
+    "https://154.23.224.143:46000/",
+    "https://154.23.224.152:47000/",
+    "https://154.23.224.153:47000/",
     "https://h5api.lwpqxt.com/",
     "https://h5api4.lwpqxt.com/",
     "https://h5api.sxzspf.com/",
@@ -14,6 +18,10 @@
     "https://h5static.sxrphb.com/"
   ],
   "resApi": [
+    "https://154.23.224.142:46000/",
+    "https://154.23.224.143:46000/",
+    "https://154.23.224.152:47000/",
+    "https://154.23.224.153:47000/",
     "https://h5api.lwpqxt.com/",
     "https://h5api4.lwpqxt.com/",
     "https://h5api.sxzspf.com/",
