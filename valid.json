@@ -1,7 +1,11 @@
 {
   "apis": [
-    "https://qpapi.xiangyinkt.com/",
-    "https://qpapi8.xiangyinkt.com/",
+    "https://154.23.224.148:57000/",
+    "https://154.23.224.149:57000/",
+    "https://154.23.224.138:57000/",
+    "https://154.23.224.139:57000/",
+    "https://qpapi.pdtkbx.com/",
+    "https://qpapi8.pdtkbx.com/",
     "https://qpapi.sitzjr.com/",
     "https://qpapi.sxgftm.com/",
     "https://static.hytzsteel.com/",
@@ -11,8 +15,12 @@
     "https://static.sgwxev.com/"
   ],
   "staticRes": [
-    "https://qpapi.xiangyinkt.com/",
-    "https://qpapi8.xiangyinkt.com/",
+    "https://154.23.224.148:57000/",
+    "https://154.23.224.149:57000/",
+    "https://154.23.224.138:57000/",
+    "https://154.23.224.139:57000/",
+    "https://qpapi.pdtkbx.com/",
+    "https://qpapi8.pdtkbx.com/",
     "https://qpapi.sitzjr.com/",
     "https://qpapi.sxgftm.com/",
     "https://static.hytzsteel.com/",
@@ -22,8 +30,12 @@
     "https://static.sgwxev.com/"
   ],
   "urls": [
-    "https://qpapi.xiangyinkt.com/",
-    "https://qpapi8.xiangyinkt.com/",
+    "https://154.23.224.148:57000/",
+    "https://154.23.224.149:57000/",
+    "https://154.23.224.138:57000/",
+    "https://154.23.224.139:57000/",
+    "https://qpapi.pdtkbx.com/",
+    "https://qpapi8.pdtkbx.com/",
     "https://qpapi.sitzjr.com/",
     "https://qpapi.sxgftm.com/",
     "https://static.hytzsteel.com/",
